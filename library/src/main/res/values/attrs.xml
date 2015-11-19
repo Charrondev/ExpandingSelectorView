@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ExpandingSelectorView">
+        <attr name="imgResource" format="reference" />
+        <attr name="viewResource" format="reference" />
+        <attr name="viewTitle" format="string" />
+        <attr name="imgColor" format="color" />
+    </declare-styleable>
+</resources>
